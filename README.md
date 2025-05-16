@@ -18,5 +18,5 @@ Este es un proyecto básico de registro y login de usuarios utilizando **Flask**
 - Python 3.x
 - Flask
 
-- Podés instalar Flask ejecutando:
-- pip install flask
+- Antes de ejecutar la aplicación, instalá los paquetes necesarios con:
+- pip install -r requirements.txt
